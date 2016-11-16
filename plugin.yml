@@ -1,0 +1,7 @@
+name: PlayerHealer
+main: me.tehgamingblock.PlayerHealer
+version: 1.1
+description: Allows you to heal other players.
+commands:
+heal:
+description: Heals a player.
